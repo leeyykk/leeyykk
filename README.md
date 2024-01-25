@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm YK, an undergraduate majoring Computer Science 🖥️ and minoring Industrial Design 🖌️ at KAIST. My current focus lies at the intersection of Human-AI Interaction (HAI) and education. Dedicated to addressing opportunity gaps, my goal is to empower learners, ensuring they don't miss out on valuable learning experiences. With a keen interest in optimizing student personalization, my research aims to ultimately enhance confidence levels in learning. I aspire to foster an environment where every student feels supported, eliminating discouragement and promoting inclusivity.
+I'm YK, an undergraduate majoring __Computer Science__ 🖥️ and minoring __Industrial Design__ 🖌️ at __KAIST__. My current focus lies at the intersection of __Human-AI Interaction (HAI) and education__. Dedicated to addressing opportunity gaps, my goal is to empower learners, ensuring they don't miss out on valuable learning experiences. With a keen interest in optimizing student personalization, my research aims to ultimately enhance confidence levels in learning. I aspire to foster an environment where every student feels supported, eliminating discouragement and promoting inclusivity.
 
 <!--
 **leeyykk/leeyykk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
